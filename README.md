@@ -1,10 +1,10 @@
-![Monocle App Icon](App Icon/Monocle Icon 180px.png)
+![Monocle App Icon](https://raw.githubusercontent.com/freshking/Monocle-Presskit/master/App%20Icon/Monocle%20Icon%20180px.png)
 
 # Press Kit
 
 Here you can find all the assets and press information for Monocle, a comprehensive Reddit browser.
 
-The complete app description can be found in [App Description.md](App Description.md). [Screenshots](https://github.com/freshking/Monocle-Presskit/tree/master/Screenshots) and [app icons](https://github.com/freshking/Monocle-Presskit/tree/master/App%20Icon) are also available. 
+The complete app description can be found in [App Description.md](https://github.com/freshking/monocle-presskit/blob/master/App%20Description.md). [Screenshots](https://github.com/freshking/Monocle-Presskit/tree/master/Screenshots) and [app icons](https://github.com/freshking/Monocle-Presskit/tree/master/App%20Icon) are also available. 
 
 You may also download to complete press kit [here](https://github.com/freshking/Monocle-Presskit/archive/master.zip).
 
